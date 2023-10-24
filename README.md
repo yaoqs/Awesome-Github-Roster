@@ -5,42 +5,46 @@
 <!-- TOC -->
 
 - [Awesome Github Roster](#awesome-github-roster)
-    - [Trending](#trending)
-    - [Fellow](#fellow)
-        - [Organizations](#organizations)
-    - [<https://github.com/173Lib>](#httpsgithubcom173lib)
-    - [Awesome](#awesome)
-        - [jobbole/伯乐在线](#jobbole%E4%BC%AF%E4%B9%90%E5%9C%A8%E7%BA%BF)
-    - [Microsoft](#microsoft)
-    - [online刊物](#online%E5%88%8A%E7%89%A9)
-    - [计算机编程书籍](#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B%E4%B9%A6%E7%B1%8D)
-    - [OpenCourse](#opencourse)
-    - [算法库](#%E7%AE%97%E6%B3%95%E5%BA%93)
-    - [数学](#%E6%95%B0%E5%AD%A6)
-    - [操作系统](#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
-    - [Docker](#docker)
-    - [中华文化精粹](#%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E7%B2%BE%E7%B2%B9)
-        - [中华古诗词数据库](#%E4%B8%AD%E5%8D%8E%E5%8F%A4%E8%AF%97%E8%AF%8D%E6%95%B0%E6%8D%AE%E5%BA%93)
-    - [html/css](#htmlcss)
-    - [javascript](#javascript)
-        - [nodejs](#nodejs)
-    - [树莓派/Raspberry Pi](#%E6%A0%91%E8%8E%93%E6%B4%BEraspberry-pi)
-    - [Termux](#termux)
-    - [metasploit](#metasploit)
-    - [编程语言](#%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
-        - [C/C++](#cc)
-        - [C sharp](#c-sharp)
-            - [WPF](#wpf)
-            - [NET Core](#net-core)
-        - [python](#python)
-    - [OpenCv](#opencv)
-    - [Android](#android)
-    - [图形图像/Computer Vision](#%E5%9B%BE%E5%BD%A2%E5%9B%BE%E5%83%8Fcomputer-vision)
-    - [Machine Learning](#machine-learning)
-    - [RSS](#rss)
-    - [Google](#google)
-        - [Chromium](#chromium)
-    - [其他](#%E5%85%B6%E4%BB%96)
+  - [Trending](#trending)
+  - [Fellow](#fellow)
+    - [Organizations](#organizations)
+  - [https://github.com/173Lib](#httpsgithubcom173lib)
+  - [Awesome](#awesome)
+    - [jobbole/伯乐在线](#jobbole伯乐在线)
+  - [Microsoft](#microsoft)
+  - [online刊物](#online刊物)
+  - [计算机编程书籍](#计算机编程书籍)
+  - [OpenCourse](#opencourse)
+  - [算法](#算法)
+  - [数学](#数学)
+  - [操作系统](#操作系统)
+  - [Docker](#docker)
+  - [中华文化精粹](#中华文化精粹)
+    - [中华古诗词数据库](#中华古诗词数据库)
+  - [前端](#前端)
+  - [html/css](#htmlcss)
+  - [javascript](#javascript)
+    - [nodejs](#nodejs)
+    - [vue3](#vue3)
+  - [树莓派/Raspberry Pi](#树莓派raspberry-pi)
+  - [Termux](#termux)
+  - [metasploit](#metasploit)
+  - [编程语言](#编程语言)
+    - [C/C++](#cc)
+    - [C sharp](#c-sharp)
+      - [WPF](#wpf)
+      - [.NET Core](#net-core)
+    - [python](#python)
+  - [OpenCv](#opencv)
+  - [Android](#android)
+  - [图形图像/Computer Vision](#图形图像computer-vision)
+  - [Machine Learning](#machine-learning)
+  - [RSS](#rss)
+  - [Google](#google)
+    - [Chromium](#chromium)
+  - [游戏](#游戏)
+  - [其他](#其他)
+  - [License \& Copyright](#license--copyright)
 
 <!-- /TOC -->
 
@@ -86,6 +90,7 @@
 
 ## Awesome
 <a id="markdown-awesome" name="awesome"></a>
+
 
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) A curated list of awesome awesomeness
 - [Awesome-Windows /Awesome](https://github.com/Awesome-Windows/Awesome) An awesome & curated list of best applications and tools for Windows
@@ -153,6 +158,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## online刊物
 <a id="markdown-online%E5%88%8A%E7%89%A9" name="online%E5%88%8A%E7%89%A9"></a>
 
+
 - [互联网上的免费书籍](https://github.com/ruanyf/free-books) - 阮一峰
 - [HelloGitHub](https://hellogithub.com/) 分享 GitHub 上有趣、入门级的开源项目。每月 28 号以月刊的形式更新发布，内容包括：有趣、入门级的开源项目、开源书籍、实战项目、企业级项目等，让你用很短时间感受到开源的魅力，爱上开源！[src](https://github.com/521xueweihan/HelloGitHub)
 - [ascoders / weekly](https://github.com/ascoders/weekly) 前端精读周刊。帮你理解最前沿、实用的技术。
@@ -168,6 +174,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love/)Papers from the computer science community to read and discuss. Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the Papers We Love site for more info.<https://paperswelove.org/>
+- [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [iCSToCS / CSBook](https://github.com/iCSToCS/CSBook) 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 - [CS-Book](https://github.com/iamshuaidi/CS-Book) 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 - [algo-basic](https://github.com/iamshuaidi/algo-basic) 专注于分享算法，计算机基础（包括计算机网络，操作系统，MySQL等），无论是应付面试，还是提升自己地内功，这里都能帮到你
@@ -187,12 +194,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) Awesome CS Courses 📚 List of awesome university courses for learning Computer Science!
+- [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) [计算机自学指南](https://csdiy.wiki/)
 
-## 算法库
-<a id="markdown-%E7%AE%97%E6%B3%95%E5%BA%93" name="%E7%AE%97%E6%B3%95%E5%BA%93"></a>
+## 算法
+<a id="markdown-%E7%AE%97%E6%B3%95" name="%E7%AE%97%E6%B3%95"></a>
 
 
 - [ampl /gsl](https://github.com/ampl/gsl) (c/c++)This is GSL, the GNU Scientific Library, a collection of numerical routines for scientific computing.GNU Scientific Library with CMake build support and AMPL bindings
+- [g2o](https://github.com/RainerKuemmerle/g2o): A General Framework for Graph Optimization. g2o is an open-source C++ framework for optimizing graph-based nonlinear error functions. g2o has been designed to be easily extensible to a wide range of problems and a new problem typically can be specified in a few lines of code. The current implementation provides solutions to several variants of SLAM and BA.A wide range of problems in robotics as well as in computer-vision involve the minimization of a non-linear error function that can be represented as a graph. Typical instances are simultaneous localization and mapping (SLAM) or bundle adjustment (BA). The overall goal in these problems is to find the configuration of parameters or state variables that maximally explain a set of measurements affected by Gaussian noise. g2o is an open-source C++ framework for such nonlinear least squares problems. g2o has been designed to be easily extensible to a wide range of problems and a new problem typically can be specified in a few lines of code. The current implementation provides solutions to several variants of SLAM and BA. g2o offers a performance comparable to implementations of state-of-the-art approaches for the specific problems (02/2011).
 - [leetcode](https://github.com/haoel/leetcode) LeetCode Problems' Solutions
 
 ## 数学
@@ -232,6 +241,11 @@ definitions, executable algorithms and theorems together with an environment for
 
 - [daizhigev20](https://github.com/garychowcmu/daizhigev20) 殆知阁古代文献
 
+## 前端
+<a id="markdown-%E5%89%8D%E7%AB%AF" name="%E5%89%8D%E7%AB%AF"></a>
+
+- [uni-app](https://github.com/dcloudio/uni-app) 是一个使用 Vue.js 开发小程序、H5、App的统一前端框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。官网地址：<https://uniapp.dcloud.io>
+
 ## html/css
 <a id="markdown-html%2Fcss" name="html%2Fcss"></a>
 
@@ -250,6 +264,7 @@ definitions, executable algorithms and theorems together with an environment for
 - Babylon.js
 - [D3.js](https://github.com/d3/d3) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. <https://d3js.org/> <https://d3js.org.cn/>
 - [ejs](https://github.com/mde/ejs) Embedded JavaScript templates -- <http://ejs.co>
+- [ArtPlayer.js](https://github.com/zhw2590582/ArtPlayer) is a modern and full featured HTML5 video player. is an easy-to-use and feature-rich HTML5 video player, and most of the player's functional controls support customization, which makes it easy to connect with your business logic. In addition, it directly supports .vtt, .ass and .srt subtitle formats. Integration with other dependencies such as flv.js, hls.js, dash.js, etc. is also very simple. The code is highly decoupled, the structure and logic are clear, and it is easy to track errors and add new features.[artplayer.org](https://artplayer.org/)
 
 - [deno](https://github.com/denoland/deno) is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. <https://deno.land/> <https://www.denojs.cn/>
 - [nodejs](https://github.com/nodejs/node) ® is a JavaScript runtime built on Chrome's V8 JavaScript engine.<https://nodejs.org> <http://nodejs.cn/>
@@ -259,6 +274,11 @@ definitions, executable algorithms and theorems together with an environment for
 
 
 - [sindresorhus /awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)Delightful Node.js packages and resources
+
+### vue3
+
+- [vue3-bigData](https://github.com/biubiubiu01/vue3-bigData) 一个基于vue3.0的大数据分析系统，包含各种echarts和vue3.0新API
+- [vue3-basic-admin](https://github.com/biubiubiu01/vue3-basic-admin)
 
 ## 树莓派/Raspberry Pi
 <a id="markdown-%E6%A0%91%E8%8E%93%E6%B4%BE%2Fraspberry-pi" name="%E6%A0%91%E8%8E%93%E6%B4%BE%2Fraspberry-pi"></a>
@@ -301,17 +321,22 @@ definitions, executable algorithms and theorems together with an environment for
 <a id="markdown-c%2Fc%2B%2B" name="c%2Fc%2B%2B"></a>
 
 
+- [Awesome C](https://github.com/oz123/awesome-c) A curated list of C good stuff. This list contains only open source code (as defined by the linked Open Source Definition), and sellers who aren't evil for physical resources.
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.<http://fffaraz.github.io/awesome-cpp/>
+- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) A collection of resources on modern C++
+- [Awesome Modern C++](https://awesomecpp.com/)
 - [changkun / modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) Modern C++ Tutorial: C++11/14/17/20 On the Fly | <https://changkun.de/modern-cpp/>
 - [Light-City /CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) C++那些事
-- [oz123 /awesome-c](https://github.com/oz123/awesome-c)A curated list of C good stuff. This list contains only open source code (as defined by the linked Open Source Definition), and sellers who aren't evil for physical resources.
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) A C++ header-only HTTP/HTTPS server and client library.
 - [Duilib](https://github.com/duilib/duilib) 是一个Windows下免费开源的DirectUI界面库，由于简约易扩展的设计以及稳定高效的实现被各大互联网公司普遍接受，广泛应用于包括IM、视频客户端、股票行情软件、导航软件、手机辅助软件、安全软件等多个行业的众多pc客户端软件。Duilib还在不断的发展中，在文档、例子、动画、渲染引擎等多个方面将持续改进。
 - [root-project /cling](https://github.com/root-project/cling) Cling is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure. Cling realizes the read-eval-print loop (REPL) concept, in order to leverage rapid application development. Implemented as a small extension to LLVM and Clang, the interpreter reuses their strengths such as the praised concise and expressive compiler diagnostics.
 - [Lwan Web Server](https://github.com/lpereira/lwan) is a high-performance & scalable web server.
+- [cli](https://github.com/daniele77/cli) A library for interactive command line interfaces in modern C++
 
-- [Craft](https://github.com/fogleman/Craft) A simple Minecraft clone written in C using modern OpenGL (shaders). <http://www.michaelfogleman.com/craft/> Minecraft clone for Windows, Mac OS X and Linux. Just a few thousand lines of C using modern OpenGL (shaders). Online multiplayer support is included using a Python-based server.
-- [QSanguosha](https://github.com/Mogara/QSanguosha) An open source online version of the famous board game Sanguosha. <http://www.qsanguosha.org/>
+- Dear [ImGui](https://github.com/ocornut/imgui): Bloat-free Graphical User interface for C++ with minimal dependencies
+- [implot](https://github.com/epezent/implot):Immediate Mode Plotting, GPU accelerated plotting library for Dear ImGui. It aims to provide a first-class API that ImGui fans will love. ImPlot is well suited for visualizing program data in real-time or creating interactive plots, and requires minimal code to integrate. Just like ImGui, it does not burden the end user with GUI state management, avoids STL containers and C++ headers, and has no external dependencies except for ImGui itself.
+
+- [QuickJS-Windows-Build](https://github.com/mengmo/QuickJS-Windows-Build/) Build QuickJS on Windows。QuickJS 是一个小型且可嵌入的 Javascript 引擎。它支持 ES2020 规范，包括模块、异步生成器、代理和 BigInt。 它可选地支持数学扩展，例如大十进制浮点数 (BigDecimal)、大二进制浮点数 (BigFloat) 和运算符重载。主要特点：小且易于嵌入：只有几个 C 文件，没有外部依赖，一个简单的 hello world 程序需要 210 KiB 的 x86 代码。 启动时间极短的快速解释器：在台式 PC 的单核上运行 ECMAScript 测试套件的 75000 次测试大约需要 100 秒。运行时实例的完整生命周期在不到 300 微秒内完成。 几乎完整的 ES2020 支持，包括模块、异步生成器和完整的 Annex B 支持（旧版 Web 兼容性）。 选择 ES2020 功能时，几乎 100% 通过 ECMAScript 测试套件测试。 Test262 报告中提供了摘要。 可以将Javascript 源代码编译为没有外部依赖的可执行文件。使用引用计数（以减少内存使用并具有确定性行为）和循环删除的垃圾收集。 数学扩展：BigDecimal、BigFloat、运算符重载、bigint 模式、数学模式。 在 Javascript 中实现上下文着色的命令行解释器。 带有 C 库包装器的小型内置标准库。
 
 - [libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1000FPS.This is an open source library for CNN-based face detection in images. The CNN model has been converted to static variables in C source files. The source code does not depend on any other libraries. What you need is just a C++ compiler. You can compile the source code under Windows, Linux, ARM and any platform with a C++ compiler.
 
@@ -322,10 +347,11 @@ definitions, executable algorithms and theorems together with an environment for
 ### C sharp
 <a id="markdown-c-sharp" name="c-sharp"></a>
 
-
+- **[github上有哪些不错的C# .Net项目？](https://www.zhihu.com/question/40683460?sort=created)**
 - [mono](https://github.com/mono/mono) Mono open source ECMA CLI, C# and .NET implementation. 第三方的跨平台的.NET运行环境,在微软的.net框架还只支持WIN平台的时候，mono就已经开始支持Unix, Windows, MacOS甚至IOS,安卓等操作系统了。Mono由Novell公司(由Ximian发起，并由Miguel de lcaza领导的，一个致力于开创.NET在Linux上使用的开源工程。它包含了一个C#语言的编译器，一个CLR的运行时，和一组类库，并实现了 ADO NET和ASP NET。能够使得开发人员在Linux用C#开发程序。)主持的项目.该项目的目标是创建一系列符合标准ECMA (Ecma-334和Ecma-335)的.Net 工具, 包括C #编译器和共同语言(CL 即 Common Language)执行平台(Platform).与微软的.Net不同, Mono项目不仅可以运行于Windows系统内,还可以运行于Linux, FreeBSD, Unix, Mac OS X和Solaris。
 - [ServiceStack](https://github.com/ServiceStack/ServiceStack) ServiceStack 是能同时运行于 .Net 和 Mono 上的开源web框架，它是开发 Web 服务与 Web 应用的有力替代品：包含高性能 Razor Engine 的 Web 应用框架,支持例如 HTML，XML，JSON，SOAP 等多种格式的基于消息的 Web 服务框架,包含内建 IOC 的容器,若干内建库文件，诸如：Text serializer，Redis Client，ORM 以及 caching providers,除了 ASP.NET Hosting 和 Mono Hosting 之外，还包含 self-hosting 选项
 - [Nancy](https://github.com/NancyFx/Nancy) Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono .Nancy是一个轻量，高效的基于http 服务的框架，它能用来快迅而优雅的处理DELETE,GET,POST,OPTIONS,POST,PUT与PATCH请求。让开发者更加专注于其它业务及更重要的内容。 同样。Nancy能同时运行于.NET与MONO平台。
+- [Hawk](https://github.com/ferventdesert/Hawk) visualized crawler & ETL IDE written with C#/WPF
 
 #### WPF
 <a id="markdown-wpf" name="wpf"></a>
@@ -369,6 +395,7 @@ definitions, executable algorithms and theorems together with an environment for
 
 - [termux/termux-app](https://github.com/termux/termux-app)Android terminal and Linux environment - app repository.
 - [Universal Android Music Player Sample](https://github.com/android/uamp) A sample audio app for Android
+- [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) ADB in your browser [Tango](https://tangoapp.dev/)  is designed for Android users to interact their android device with browser via ADB.
 
 ## 图形图像/Computer Vision
 <a id="markdown-%E5%9B%BE%E5%BD%A2%E5%9B%BE%E5%83%8F%2Fcomputer-vision" name="%E5%9B%BE%E5%BD%A2%E5%9B%BE%E5%83%8F%2Fcomputer-vision"></a>
@@ -406,6 +433,14 @@ definitions, executable algorithms and theorems together with an environment for
 
 [chromiumembedded/cef](https://github.com/chromiumembedded/cef) Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
 
+## 游戏
+
+- [Craft](https://github.com/fogleman/Craft) A simple Minecraft clone written in C using modern OpenGL (shaders). <http://www.michaelfogleman.com/craft/> Minecraft clone for Windows, Mac OS X and Linux. Just a few thousand lines of C using modern OpenGL (shaders). Online multiplayer support is included using a Python-based server.
+- [QSanguosha](https://github.com/Mogara/QSanguosha) An open source online version of the famous board game Sanguosha. <http://www.qsanguosha.org/>
+- [REDALERT 红警](https://github.com/electronicarts/CnC_Remastered_Collection)
+- [warriorjs](https://github.com/olistic/warriorjs) 🏰 An exciting game of programming and Artificial Intelligence
+- [The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat. [website](http://powdertoy.co.uk/)
+
 ## 其他
 <a id="markdown-%E5%85%B6%E4%BB%96" name="%E5%85%B6%E4%BB%96"></a>
 
@@ -424,10 +459,19 @@ definitions, executable algorithms and theorems together with an environment for
 
 - [Redis](https://github.com/redis/redis) is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. <http://redis.io/>
 
-- [REDALERT 红警](https://github.com/electronicarts/CnC_Remastered_Collection)
+
 
 - [twikoo](https://github.com/imaegoo/twikoo) 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system. demo： <https://twikoo.js.org/>
 
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/) 微软系统维护免费小工具合集 [Sysinternals on Github](https://github.com/Sysinternals)
 
 - [x64dbg](https://x64dbg.com/) [on Github](https://github.com/x64dbg/x64dbg)/[on sourceforge.net](https://sourceforge.net/projects/x64dbg/files/snapshots/): An open-source x64/x32 user mode debugger for Windows. Optimized for reverse engineering and malware analysis. [blog](https://x64dbg.com/blog/)
+
+## License & Copyright
+<a id="markdown-license-%26-copyright" name="license-%26-copyright"></a>
+
+- 版权声明：Copyright © 2019-2023 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+- [![GitHub license](https://badgen.net/github/license/yaoqs/Awesome-Github-Roster)](https://github.com/yaoqs/Awesome-Github-Roster/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/Awesome-Github-Roster.svg)](https://github.com/yaoqs/Awesome-Github-Roster/blob/master/LICENSE)
+知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
+- 免责声明：此项目仅供学习交流使用，严禁用于商业用途及其他非法目的，请在24小时之内删除！如有侵权，请联系删除。
+- 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <350788415@qq.com>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
