@@ -64,6 +64,11 @@
 - [迷渡 justjavac](https://github.com/justjavac)
 - [Jim Liu 宝玉](https://github.com/JimLiu)
 - [LeMaker](https://github.com/LeMaker)
+- [Justine Tunney](https://github.com/jart)
+- [bellard](https://github.com/bellard)
+- [Satya Mallick](https://github.com/spmallick)
+- [Daniel Holden](https://github.com/orangeduck)
+- [Noteworthy](https://github.com/LordNoteworthy)
 
 ### Organizations
 <a id="markdown-organizations" name="organizations"></a>
@@ -83,6 +88,7 @@
 - [Electronic Arts](https://github.com/electronicarts)
 - [dotnet campus](https://github.com/dotnet-campus/)
 - [.NET Core Community](https://github.com/dotnetcore)
+- [MITMath](https://github.com/mitmath) educational materials for MIT math courses
 
 ## <https://github.com/173Lib>
 <a id="markdown-%3Chttps%3A%2F%2Fgithub.com%2F173lib%3E" name="%3Chttps%3A%2F%2Fgithub.com%2F173lib%3E"></a>
@@ -100,6 +106,8 @@
 - [vinta /awesome-python](https://github.com/vinta/awesome-python)
 - [sindresorhus /awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)Delightful Node.js packages and resources
 - [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+- [GitHub中文排行榜](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)
+- [Awesome resources](https://github.com/lyfeyaj/awesome-resources) for coding and learning: open source projects, websites, books e.g.
 
 ### [jobbole/伯乐在线](https://github.com/jobbole/)
 <a id="markdown-jobbole%2F%E4%BC%AF%E4%B9%90%E5%9C%A8%E7%BA%BF" name="jobbole%2F%E4%BC%AF%E4%B9%90%E5%9C%A8%E7%BA%BF"></a>
@@ -149,7 +157,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 
 - [MS Terminal](https://github.com/microsoft/terminal)
-- PowerShell
+- [PowerShell](https://github.com/PowerShell/PowerShell)
 - [vscode](https://github.com/microsoft/vscode)
 - [Windows Implementation Library](https://github.com/Microsoft/wil)
 - [Windows Template Library (WTL)](https://sourceforge.net/projects/wtl/)
@@ -168,6 +176,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 - [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) 🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [GitHub-English-Top-Charts](https://github.com/GrowingGit/GitHub-English-Top-Charts) Help you discover excellent English projects and get rid of disturbing by other spoken language.
 - [500 Lines or Less](https://github.com/aosabook/500lines) This is the source for the book 500 Lines or Less, the fourth in the Architecture of Open Source Applications series.
+- [李笑来](https://github.com/xiaolai)
+  - [韭菜的自我修养 / The self-cultivation of leeks](https://github.com/xiaolai/the-self-cultivation-of-leeks)
+  - [把时间当作朋友](https://github.com/xiaolai/time-as-a-friend)
+  - [定投改变命运 —— 让时间陪你慢慢变富](https://onregularinvesting.com/) [github](https://github.com/xiaolai/regular-investing-in-box)
+  - [人人都能用英语](https://github.com/xiaolai/everyone-can-use-english)
+- [润学](https://github.com/The-Run-Philosophy-Organization/run)全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
 
 ## 计算机编程书籍
 <a id="markdown-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B%E4%B9%A6%E7%B1%8D" name="%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BC%96%E7%A8%8B%E4%B9%A6%E7%B1%8D"></a>
@@ -188,6 +202,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 - [Reverse_Engineering_For_Beginners](https://github.com/raminfp/Reverse_Engineering_For_Beginners) Tutorial Reverse Engineering
 - 《[ECMAScript 6 入门教程](https://github.com/ruanyf/es6tutorial)》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。
 - [全栈工程师培训材料](https://github.com/ruanyf/jstraining) 帮助学习者掌握 JavaScript 全栈开发的基本知识，承担简单 Web 应用的前后端开发。
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line)
+
+- [计算机数值分析课程](https://github.com/qxr777/NumericalAnalysis)
+- [Numerical Analysis Implementations in Various Languages](https://github.com/ergenekonyigit/Numerical-Analysis-Examples)
+- [18.330: Introduction to Numerical Analysis (Fall 2023)](https://github.com/mitmath/18330)
+- [CS205A Mathematical Methods for Robotics, Vision, and Graphics](https://github.com/Doraemonzzz/CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics)
 
 ## OpenCourse
 <a id="markdown-opencourse" name="opencourse"></a>
@@ -199,7 +219,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## 算法
 <a id="markdown-%E7%AE%97%E6%B3%95" name="%E7%AE%97%E6%B3%95"></a>
 
-
+- [Algorithmic-Pearls](https://github.com/jameslao/Algorithmic-Pearls)
 - [ampl /gsl](https://github.com/ampl/gsl) (c/c++)This is GSL, the GNU Scientific Library, a collection of numerical routines for scientific computing.GNU Scientific Library with CMake build support and AMPL bindings
 - [g2o](https://github.com/RainerKuemmerle/g2o): A General Framework for Graph Optimization. g2o is an open-source C++ framework for optimizing graph-based nonlinear error functions. g2o has been designed to be easily extensible to a wide range of problems and a new problem typically can be specified in a few lines of code. The current implementation provides solutions to several variants of SLAM and BA.A wide range of problems in robotics as well as in computer-vision involve the minimization of a non-linear error function that can be represented as a graph. Typical instances are simultaneous localization and mapping (SLAM) or bundle adjustment (BA). The overall goal in these problems is to find the configuration of parameters or state variables that maximally explain a set of measurements affected by Gaussian noise. g2o is an open-source C++ framework for such nonlinear least squares problems. g2o has been designed to be easily extensible to a wide range of problems and a new problem typically can be specified in a few lines of code. The current implementation provides solutions to several variants of SLAM and BA. g2o offers a performance comparable to implementations of state-of-the-art approaches for the specific problems (02/2011).
 - [leetcode](https://github.com/haoel/leetcode) LeetCode Problems' Solutions
@@ -276,6 +296,7 @@ definitions, executable algorithms and theorems together with an environment for
 - [sindresorhus /awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)Delightful Node.js packages and resources
 
 ### vue3
+<a id="markdown-vue3" name="vue3"></a>
 
 - [vue3-bigData](https://github.com/biubiubiu01/vue3-bigData) 一个基于vue3.0的大数据分析系统，包含各种echarts和vue3.0新API
 - [vue3-basic-admin](https://github.com/biubiubiu01/vue3-basic-admin)
@@ -332,9 +353,21 @@ definitions, executable algorithms and theorems together with an environment for
 - [root-project /cling](https://github.com/root-project/cling) Cling is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure. Cling realizes the read-eval-print loop (REPL) concept, in order to leverage rapid application development. Implemented as a small extension to LLVM and Clang, the interpreter reuses their strengths such as the praised concise and expressive compiler diagnostics.
 - [Lwan Web Server](https://github.com/lpereira/lwan) is a high-performance & scalable web server.
 - [cli](https://github.com/daniele77/cli) A library for interactive command line interfaces in modern C++
+- [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey/) is a free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. It is driven by a custom scripting language that has special provision for defining keyboard shortcuts, otherwise known as hotkeys.
+
+- The [LLVM](https://llvm.org/) Project is a collection of modular and reusable compiler and toolchain technologies. LLVM 最早是底层虚拟机（Low Level Virtual Machine）的缩写，但由于项目发展过快，底层虚拟机已经不足以介绍项目本身，而它已经发展成为一个包含前端，优化器和后端的完整编译框架，并且全称就叫LLVM，并非任何英文的简称了。其主要由C++编写而成。[Github](https://github.com/llvm/llvm-project)
+- [Clang](http://clang.org/) 是LLVM项目的一个子项目，基于LLVM架构的C/C++/Objective-C编译器前端.
+- [GCC](https://gcc.gnu.org/), the GNU Compiler Collection
+- [Premake](https://github.com/premake/premake-core) is a command line utility which reads a scripted definition of a software project, then uses it to perform build configuration tasks or generate project files for toolsets like Visual Studio, Xcode, and GNU Make. Premake's scripts are little Lua programs, so the sky's the limit!
+- [SWIG](https://github.com/swig/swig) is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
+  - [SWIG](https://www.swig.org/) is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages. SWIG is used with different types of target languages including common scripting languages such as Javascript, Perl, PHP, Python, Tcl and Ruby. The list of supported languages also includes non-scripting languages such as C#, D, Go language, Java including Android, Lua, OCaml, Octave, Scilab and R. Also several interpreted and compiled Scheme implementations (Guile, MzScheme/Racket) are supported. SWIG is most commonly used to create high-level interpreted or compiled programming environments, user interfaces, and as a tool for testing and prototyping C/C++ software. SWIG is typically used to parse C/C++ interfaces and generate the 'glue code' required for the above target languages to call into the C/C++ code. SWIG can also export its parse tree in the form of XML. SWIG is free software and the code that SWIG generates is compatible with both commercial and non-commercial projects.
+  - [c++ + swig + lua ，三位一体，组合式开发](https://www.cnblogs.com/suanguade/p/13348216.html)
+  - [一个我自己用的小工具](https://www.cnblogs.com/suanguade/p/8511360.html)
 
 - Dear [ImGui](https://github.com/ocornut/imgui): Bloat-free Graphical User interface for C++ with minimal dependencies
 - [implot](https://github.com/epezent/implot):Immediate Mode Plotting, GPU accelerated plotting library for Dear ImGui. It aims to provide a first-class API that ImGui fans will love. ImPlot is well suited for visualizing program data in real-time or creating interactive plots, and requires minimal code to integrate. Just like ImGui, it does not burden the end user with GUI state management, avoids STL containers and C++ headers, and has no external dependencies except for ImGui itself.
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) :A Modern Cross-Platform Low-Level 3D Graphics Library and Rendering Framework. Diligent Engine is a lightweight cross-platform graphics API abstraction library and rendering framework. It is designed to take full advantage of Direct3D12, Vulkan and Metal, while supporting older platforms via Direct3D11, OpenGL and OpenGLES. Diligent Engine exposes common front-end API and uses HLSL as universal shading language on all platforms and rendering back-ends. Platform-specific shader representations (GLSL, MSL, DX bytecode or SPIRV) can be used with corresponding back-ends. The engine is intended to be used as graphics subsystem in a game engine or any other 3D application. It is distributed under Apache 2.0 license and is free to use.
 
 - [QuickJS-Windows-Build](https://github.com/mengmo/QuickJS-Windows-Build/) Build QuickJS on Windows。QuickJS 是一个小型且可嵌入的 Javascript 引擎。它支持 ES2020 规范，包括模块、异步生成器、代理和 BigInt。 它可选地支持数学扩展，例如大十进制浮点数 (BigDecimal)、大二进制浮点数 (BigFloat) 和运算符重载。主要特点：小且易于嵌入：只有几个 C 文件，没有外部依赖，一个简单的 hello world 程序需要 210 KiB 的 x86 代码。 启动时间极短的快速解释器：在台式 PC 的单核上运行 ECMAScript 测试套件的 75000 次测试大约需要 100 秒。运行时实例的完整生命周期在不到 300 微秒内完成。 几乎完整的 ES2020 支持，包括模块、异步生成器和完整的 Annex B 支持（旧版 Web 兼容性）。 选择 ES2020 功能时，几乎 100% 通过 ECMAScript 测试套件测试。 Test262 报告中提供了摘要。 可以将Javascript 源代码编译为没有外部依赖的可执行文件。使用引用计数（以减少内存使用并具有确定性行为）和循环删除的垃圾收集。 数学扩展：BigDecimal、BigFloat、运算符重载、bigint 模式、数学模式。 在 Javascript 中实现上下文着色的命令行解释器。 带有 C 库包装器的小型内置标准库。
 
@@ -343,6 +376,23 @@ definitions, executable algorithms and theorems together with an environment for
 - [permo](https://github.com/zjccsg/permo) cpu\memory\net monitor application 性能监控悬浮窗
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
 - [MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) 是一款集音乐播放、歌词显示、格式转换等众多功能于一身的音频播放软件。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、专辑封面显示、专辑封面在线下载、频谱分析、音效设置、任务栏缩略图按钮、主题颜色、格式转换等功能。播放内核为BASS音频库(V2.4)。播放器支持几乎所有常见的音频格式。
+- [al-khaser](https://github.com/LordNoteworthy/al-khaser) is a PoC "malware" application with good intentions that aims to stress your anti-malware system. It performs a bunch of common malware tricks with the goal of seeing if you stay under the radar.
+- [Keeper](https://github.com/yuanyuanxiang/Keeper) 一种守护程序，可对Windows控制台或任何可执行程序进行守护，在程序崩溃时立即重启程序， 并可向监控终端（远程控制器：RemoteController.exe）定时上报程序的运行状态，例如 运行时长、线程句柄数、内存使用率、崩溃次数、程序版本等信息。
+- [一种基于QR二维码的彩色二维码编码译码设计及其软件实现](https://github.com/yuanyuanxiang/3DCode)。该彩色二维码提升了普通黑白二维码的防伪性能，并且编码量增大到1.5倍。该软件是首都师范大学数学科学学院研究生毕业设计研究的课题，也是研究生创新创业项目所支持的内容之一。彩色QR码兼容QR码，在QR码的图层上用色彩编码私有信息，借助于隐形光学材料，该QR码在肉眼下与普通二维码无异。目前，在Ver30下编码数据量将达到QR码的3倍。
+- [一个Visual C++调用python tensorflow模型进行目标识别的实例](https://github.com/yuanyuanxiang/ObjDetector)。
+- [DIP_System](https://github.com/yuanyuanxiang/DIP_System) 这是一个基于MFC的数字图像处理程序，主要实现了对图像进行灰度变换（曲线、色阶）、几何变换（缩放、旋转）、滤波（空间滤波、频域滤波、FFT）等功能。
+
+- [Free Download Manager](https://github.com/DayBreakZhang/Free-Download-Manager-vs2010)是一款免费的多点续传下载及管理的软件，支持 HTTP, HTTPS and FTP 的下载功能支持直接浏览 FTP 站台的目录
+- [微盾®防火墙](https://github.com/dekuan/VwFirewall?tab=readme-ov-file)是一款专为 Windows 服务器而开发的专业防火墙软件，能有效提升服务器安全级别，保护服务器免遭入侵。本软件授权个人免费使用，无任何功能限制。
+
+- [Ceres Solver](https://github.com/ceres-solver/ceres-solver) is an open source C++ library for modeling and solving large, complicated optimization problems. It is a feature rich, mature and performant library which has been used in production at Google since 2010. Ceres Solver can solve two kinds of problems.
+
+- xanasoft.com
+  - [MajorPrivacy](https://github.com/xanasoft/MajorPrivacy/)
+  - [NeoLoader Source Code](https://github.com/NeoLoader/NeoLoader)
+  - [Windows update managemetn tool for windows 10](https://github.com/DavidXanatos/wumgr)
+  - [Task Explorer](https://github.com/DavidXanatos/TaskExplorer) is an advanced Task Manager tool with emphasis on, not just monitoring what applications are running, but on finding out what applications are doing. The UI focuses on expedience and getting real time data of what the processes are doing at any given moment. Relevant data are provided in easy to access (as less clicks as possible) panels, with no need to open windows or windows of sub windows, instead additional information’s for selected entries are shown in the lower half of the panel. Allowing to browse the detailed information’s using arrow keys. And most data are refreshed continuously, as seeing the dynamic of values often grants additional insight.
+  - [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the Windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing. Sandboxie allows you to create virtually unlimited sandboxes and run them alone or simultaneously to isolate programs from the host and each other, while also allowing you to run as many programs simultaneously in a single box as you wish.
 
 ### C sharp
 <a id="markdown-c-sharp" name="c-sharp"></a>
@@ -352,6 +402,7 @@ definitions, executable algorithms and theorems together with an environment for
 - [ServiceStack](https://github.com/ServiceStack/ServiceStack) ServiceStack 是能同时运行于 .Net 和 Mono 上的开源web框架，它是开发 Web 服务与 Web 应用的有力替代品：包含高性能 Razor Engine 的 Web 应用框架,支持例如 HTML，XML，JSON，SOAP 等多种格式的基于消息的 Web 服务框架,包含内建 IOC 的容器,若干内建库文件，诸如：Text serializer，Redis Client，ORM 以及 caching providers,除了 ASP.NET Hosting 和 Mono Hosting 之外，还包含 self-hosting 选项
 - [Nancy](https://github.com/NancyFx/Nancy) Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono .Nancy是一个轻量，高效的基于http 服务的框架，它能用来快迅而优雅的处理DELETE,GET,POST,OPTIONS,POST,PUT与PATCH请求。让开发者更加专注于其它业务及更重要的内容。 同样。Nancy能同时运行于.NET与MONO平台。
 - [Hawk](https://github.com/ferventdesert/Hawk) visualized crawler & ETL IDE written with C#/WPF
+- [lively](https://github.com/rocksdanister/lively) Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. <https://www.rocksdanister.com/lively/>
 
 #### WPF
 <a id="markdown-wpf" name="wpf"></a>
@@ -386,6 +437,7 @@ definitions, executable algorithms and theorems together with an environment for
 - [OpenCvSharp](https://github.com/shimat/opencvsharp) OpenCV wrapper for .NET
 - [OpenCvSharp Documented Class Library](https://shimat.github.io/opencvsharp_docs/html/d69c29a1-7fb1-4f78-82e9-79be971c3d03.htm)
 - [OpenCV3编程入门](https://github.com/QianMo/OpenCV3-Intro-Book-Src) 📘《OpenCV3编程入门》书本配套源码 |《Introduction to OpenCV3 Programming》Book Source Code
+- [GOMfcTemplate2](https://github.com/jsxyhelu/GOMfcTemplate2): 编写带界面的图像处理程序，选择opencv+mfc是一种很好的选择
 
 - [aidlearning /AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)AidLearning is a mobile AI development platform that supports all mainstream development frameworks and tools for deep learning and neural networks. It has a unique cpu+gpu acceleration technology, that brings a significant boost on performance of deep-learning algorithm by the built-in tflite_gpu module. At the same time, AidLearning also provides developers with popular development tools, such as VSCode and Jupiter Notebook. 在移动端（Android）上构架了一个支持图形化界面的完整Linux系统，内置了最为流行的深度学习框架caffe/mxnet/keras/pytorch/tensorflow/ncnn/opencv…内置了可视化AI开发编辑器，内置了最为流行的VSCode、Jupyter等编程工具，支持触摸拖拽式界面设计，支持代码动态调试和运行。支持在移动端和PC端用python开发你的AI应用，支持把你的python源码转化为APP（Apk）发布
 
@@ -396,6 +448,7 @@ definitions, executable algorithms and theorems together with an environment for
 - [termux/termux-app](https://github.com/termux/termux-app)Android terminal and Linux environment - app repository.
 - [Universal Android Music Player Sample](https://github.com/android/uamp) A sample audio app for Android
 - [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) ADB in your browser [Tango](https://tangoapp.dev/)  is designed for Android users to interact their android device with browser via ADB.
+- [《第一行代码 第2版》全书源代码](https://github.com/guolindev/booksource)
 
 ## 图形图像/Computer Vision
 <a id="markdown-%E5%9B%BE%E5%BD%A2%E5%9B%BE%E5%83%8F%2Fcomputer-vision" name="%E5%9B%BE%E5%BD%A2%E5%9B%BE%E5%83%8F%2Fcomputer-vision"></a>
@@ -408,7 +461,7 @@ definitions, executable algorithms and theorems together with an environment for
 ## Machine Learning
 <a id="markdown-machine-learning" name="machine-learning"></a>
 
-
+- [tutorials](https://github.com/MorvanZhou/tutorials) 机器学习相关教程
 - [sjwhitworth /golearn](https://github.com/sjwhitworth/golearn)Machine Learning for Go
 - [oboticcam /machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)
 - [Minerva](https://github.com/dmlc/minerva): a fast and flexible system for deep learning on multi-GPU. It provides ndarray programming interface, just like Numpy. Python bindings and C++ bindings are both available. The resulting code can be run on CPU or GPU. Multi-GPU support is very easy.
@@ -416,6 +469,7 @@ definitions, executable algorithms and theorems together with an environment for
 - [NeuralTalk](https://github.com/karpathy/neuraltalk)  is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
 - [Apache MXNet (incubating) for Deep Learning](https://github.com/apache/incubator-mxnet) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more.<https://mxnet.apache.org/>
 - [DIGITS](https://github.com/NVIDIA/DIGITS)  (the Deep Learning GPU Training System) is a webapp for training deep learning models. The currently supported frameworks are: Caffe, Torch, and Tensorflow.<https://developer.nvidia.com/digits>
+- [Dlib](http://dlib.net/) is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. It is used in both industry and academia in a wide range of domains including robotics, embedded devices, mobile phones, and large high performance computing environments. Dlib's open source licensing allows you to use it in any application, free of charge. [Github](https://github.com/davisking/dlib)
 
 ## RSS
 <a id="markdown-rss" name="rss"></a>
@@ -434,6 +488,7 @@ definitions, executable algorithms and theorems together with an environment for
 [chromiumembedded/cef](https://github.com/chromiumembedded/cef) Chromium Embedded Framework (CEF) official mirror. A simple framework for embedding Chromium-based browsers in other applications.
 
 ## 游戏
+<a id="markdown-%E6%B8%B8%E6%88%8F" name="%E6%B8%B8%E6%88%8F"></a>
 
 - [Craft](https://github.com/fogleman/Craft) A simple Minecraft clone written in C using modern OpenGL (shaders). <http://www.michaelfogleman.com/craft/> Minecraft clone for Windows, Mac OS X and Linux. Just a few thousand lines of C using modern OpenGL (shaders). Online multiplayer support is included using a Python-based server.
 - [QSanguosha](https://github.com/Mogara/QSanguosha) An open source online version of the famous board game Sanguosha. <http://www.qsanguosha.org/>
