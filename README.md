@@ -8,7 +8,7 @@
   - [Trending](#trending)
   - [Fellow](#fellow)
     - [Organizations](#organizations)
-  - [https://github.com/173Lib](#httpsgithubcom173lib)
+  - [173lib](#173lib)
   - [Awesome](#awesome)
     - [jobbole/伯乐在线](#jobbole伯乐在线)
   - [Microsoft](#microsoft)
@@ -90,8 +90,8 @@
 - [.NET Core Community](https://github.com/dotnetcore)
 - [MITMath](https://github.com/mitmath) educational materials for MIT math courses
 
-## <https://github.com/173Lib>
-<a id="markdown-%3Chttps%3A%2F%2Fgithub.com%2F173lib%3E" name="%3Chttps%3A%2F%2Fgithub.com%2F173lib%3E"></a>
+## [173lib](https://github.com/173Lib)
+<a id="markdown-173lib" name="173lib"></a>
 
 
 ## Awesome
@@ -155,7 +155,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## [Microsoft](https://github.com/microsoft)
 <a id="markdown-microsoft" name="microsoft"></a>
 
-
+- [MS-DOS](https://github.com/microsoft/MS-DOS)
 - [MS Terminal](https://github.com/microsoft/terminal)
 - [PowerShell](https://github.com/PowerShell/PowerShell)
 - [vscode](https://github.com/microsoft/vscode)
@@ -280,6 +280,9 @@ definitions, executable algorithms and theorems together with an environment for
 - [Apache ECharts](https://echarts.apache.org/zh/index.html) 一个基于 JavaScript 的开源可视化图表库,[github仓](https://github.com/apache/echarts)
 - [30-seconds /30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) Short JavaScript code snippets for all your development needs
 - [jsdoc /jsdoc](https://github.com/jsdoc/jsdoc) An API documentation generator for JavaScript.
+- [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info):现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
+
+- [CesiumJS](https://github.com/CesiumGS/cesium) is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
 - [three.js](https://github.com/mrdoob/three.js) JavaScript 3D Library <https://threejs.org/> <https://github.com/mrdoob/three.js> <http://www.webgl3d.cn/>
 - Babylon.js
 - [D3.js](https://github.com/d3/d3) is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. <https://d3js.org/> <https://d3js.org.cn/>
@@ -289,11 +292,15 @@ definitions, executable algorithms and theorems together with an environment for
 - [deno](https://github.com/denoland/deno) is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust. <https://deno.land/> <https://www.denojs.cn/>
 - [nodejs](https://github.com/nodejs/node) ® is a JavaScript runtime built on Chrome's V8 JavaScript engine.<https://nodejs.org> <http://nodejs.cn/>
 
+- [GlobeStream3D](https://github.com/hululuuuuu/GlobeStream3D):基于threejs开发的3D地球2D 地图 js组件，适用所有前端js项目 Building 3D visualization based on three.js, High efficiency component
+
 ### nodejs
 <a id="markdown-nodejs" name="nodejs"></a>
 
-
+- [nodejs](https://github.com/nodejs/node) ® is a JavaScript runtime built on Chrome's V8 JavaScript engine.<https://nodejs.org> <http://nodejs.cn/>
 - [sindresorhus /awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)Delightful Node.js packages and resources
+- [hexo](https://github.com/hexojs/hexo):A fast, simple & powerful blog framework, powered by Node.js.
+- [next.js](https://github.com/vercel/next.js)
 
 ### vue3
 <a id="markdown-vue3" name="vue3"></a>
@@ -403,6 +410,8 @@ definitions, executable algorithms and theorems together with an environment for
 - [Nancy](https://github.com/NancyFx/Nancy) Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono .Nancy是一个轻量，高效的基于http 服务的框架，它能用来快迅而优雅的处理DELETE,GET,POST,OPTIONS,POST,PUT与PATCH请求。让开发者更加专注于其它业务及更重要的内容。 同样。Nancy能同时运行于.NET与MONO平台。
 - [Hawk](https://github.com/ferventdesert/Hawk) visualized crawler & ETL IDE written with C#/WPF
 - [lively](https://github.com/rocksdanister/lively) Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. <https://www.rocksdanister.com/lively/>
+- [Tai](https://github.com/Planshit/Tai):在Windows上统计软件使用时长和网站浏览时长
+- [Shion](https://github.com/shion-app/shion) is a time tracking software that records fragments of your daily life
 
 #### WPF
 <a id="markdown-wpf" name="wpf"></a>
@@ -428,6 +437,18 @@ definitions, executable algorithms and theorems together with an environment for
 - [spyder-ide /spyder](https://github.com/spyder-ide/spyder) Official repository for Spyder - The Scientific Python Development Environment. For more detail...[homepahe](https://www.spyder-ide.org/)
 - [Minecraft](https://github.com/fogleman/Minecraft) Simple Minecraft-inspired program using Python and Pyglet
 - <https://github.com/chrisalbon/code_py> A collection of well-commented code snippets for data science
+- [pygame](https://www.pygame.org)
+- NumPy
+  - [官网](http://www.numpy.org/)
+  - [源代码](https://github.com/numpy/numpy)
+  - [菜鸟教程](https://www.runoob.com/numpy/numpy-tutorial.html)
+- SciPy
+  - [官网](https://www.scipy.org/)
+  - [源代码](https://github.com/scipy/scipy)
+- matplot
+  - [官网](https://matplotlib.org/)
+  - [源代码](https://github.com/matplotlib/matplotlib)
+  - [教程](https://www.runoob.com/matplotlib/matplotlib-tutorial.html)
 
 ## OpenCv
 <a id="markdown-opencv" name="opencv"></a>
@@ -525,8 +546,9 @@ definitions, executable algorithms and theorems together with an environment for
 ## License & Copyright
 <a id="markdown-license-%26-copyright" name="license-%26-copyright"></a>
 
-- 版权声明：Copyright © 2019-2023 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
-- [![GitHub license](https://badgen.net/github/license/yaoqs/Awesome-Github-Roster)](https://github.com/yaoqs/Awesome-Github-Roster/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/Awesome-Github-Roster.svg)](https://github.com/yaoqs/Awesome-Github-Roster/blob/master/LICENSE)
-知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
+[![GitHub license](https://badgen.net/github/license/yaoqs/Awesome-Github-Roster)](https://github.com/yaoqs/Awesome-Github-Roster/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/yaoqs/Awesome-Github-Roster.svg)](https://github.com/yaoqs/Awesome-Github-Roster/blob/master/LICENSE)
+
+- 版权声明：Copyright © 2019-2024 要庆生. All rights reserved. 未经本人同意请勿转载。经本人同意后转载时请注明出处。
+- 知识共享许可协议 版权声明：署名，允许他人基于本文进行创作，且必须基于与原先许可协议相同的许可协议分发本文([Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/ ))
 - 免责声明：此项目仅供学习交流使用，严禁用于商业用途及其他非法目的，请在24小时之内删除！如有侵权，请联系删除。
-- 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或Email <350788415@qq.com>告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
+- 业余时间所作，难免有不足及错漏之处，敬请包涵指正，可通过github仓库在线留言或[![Email](http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png)](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=m_L69OroxPj1qqKjrdvq6rX49PY)告知；如需补充其他相关专业信息，亦可邮件通知或github仓库在线留言；同时欢迎各位热心人士star、fork或共同参与维护仓库
