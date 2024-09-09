@@ -4,47 +4,47 @@
 
 <!-- TOC -->
 
-- [Awesome Github Roster](#awesome-github-roster)
-  - [Trending](#trending)
-  - [Fellow](#fellow)
-    - [Organizations](#organizations)
-  - [173lib](#173lib)
-  - [Awesome](#awesome)
-    - [jobbole/伯乐在线](#jobbole伯乐在线)
-  - [Microsoft](#microsoft)
-  - [online刊物](#online刊物)
-  - [计算机编程书籍](#计算机编程书籍)
-  - [OpenCourse](#opencourse)
-  - [算法](#算法)
-  - [数学](#数学)
-  - [操作系统](#操作系统)
-  - [Docker](#docker)
-  - [中华文化精粹](#中华文化精粹)
-    - [中华古诗词数据库](#中华古诗词数据库)
-  - [前端](#前端)
-  - [html/css](#htmlcss)
-  - [javascript](#javascript)
-    - [nodejs](#nodejs)
-    - [vue3](#vue3)
-  - [树莓派/Raspberry Pi](#树莓派raspberry-pi)
-  - [Termux](#termux)
-  - [metasploit](#metasploit)
-  - [编程语言](#编程语言)
-    - [C/C++](#cc)
-    - [C sharp](#c-sharp)
-      - [WPF](#wpf)
-      - [.NET Core](#net-core)
-    - [python](#python)
-  - [OpenCv](#opencv)
-  - [Android](#android)
-  - [图形图像/Computer Vision](#图形图像computer-vision)
-  - [Machine Learning](#machine-learning)
-  - [RSS](#rss)
-  - [Google](#google)
-    - [Chromium](#chromium)
-  - [游戏](#游戏)
-  - [其他](#其他)
-  - [License \& Copyright](#license--copyright)
+1. [Trending](#trending)
+2. [Fellow](#fellow)
+   1. [Organizations](#organizations)
+3. [173lib](#173lib)
+4. [Awesome](#awesome)
+   1. [jobbole/伯乐在线](#jobbole伯乐在线)
+5. [Microsoft](#microsoft)
+6. [online刊物](#online刊物)
+7. [计算机编程书籍](#计算机编程书籍)
+8. [OpenCourse](#opencourse)
+9. [算法](#算法)
+10. [数学](#数学)
+11. [操作系统](#操作系统)
+12. [Docker](#docker)
+13. [中华文化精粹](#中华文化精粹)
+    1. [中华古诗词数据库](#中华古诗词数据库)
+14. [前端](#前端)
+15. [html/css](#htmlcss)
+16. [javascript](#javascript)
+    1. [nodejs](#nodejs)
+    2. [vue3](#vue3)
+17. [树莓派/Raspberry Pi](#树莓派raspberry-pi)
+18. [Termux](#termux)
+19. [metasploit](#metasploit)
+20. [编程语言](#编程语言)
+    1. [C/C++](#cc)
+    2. [C sharp](#c-sharp)
+       1. [WPF](#wpf)
+       2. [.NET Core](#net-core)
+    3. [python](#python)
+    4. [Taichi](#taichi)
+21. [OpenCv](#opencv)
+22. [Android](#android)
+23. [图形图像/Computer Vision](#图形图像computer-vision)
+24. [Machine Learning](#machine-learning)
+25. [RSS](#rss)
+26. [Google](#google)
+    1. [Chromium](#chromium)
+27. [游戏](#游戏)
+28. [其他](#其他)
+29. [License \& Copyright](#license--copyright)
 
 <!-- /TOC -->
 
@@ -394,12 +394,16 @@ definitions, executable algorithms and theorems together with an environment for
 
 - [Ceres Solver](https://github.com/ceres-solver/ceres-solver) is an open source C++ library for modeling and solving large, complicated optimization problems. It is a feature rich, mature and performant library which has been used in production at Google since 2010. Ceres Solver can solve two kinds of problems.
 
+- [cinatra](https://github.com/qicosmos/cinatra)--一个高效易用的c++ http框架，它是用modern c++(c++20)开发的，它的目标是提供一个快速开发的c++ http框架。它的主要特点如下：统一而简单的接口,header-only, 跨平台, 高效, 支持面向切面编程.cinatra目前支持了http1.1/1.0, ssl和websocket, 你可以用它轻易地开发一个http服务器，比如常见的数据库访问服务器、文件上传下载服务器、实时消息推送服务器，你也可以基于cinatra开发一个mqtt服务器。 cinatra是世界上性能最好的http服务器之一，性能测试详见性能测试.除此之外，cinatra 还提供了一个基于C++20 协程的http(https) client，包括普通get/post请求、文件上传下载和web socket、redirect、proxy等功能。
+
 - xanasoft.com
   - [MajorPrivacy](https://github.com/xanasoft/MajorPrivacy/)
   - [NeoLoader Source Code](https://github.com/NeoLoader/NeoLoader)
   - [Windows update managemetn tool for windows 10](https://github.com/DavidXanatos/wumgr)
   - [Task Explorer](https://github.com/DavidXanatos/TaskExplorer) is an advanced Task Manager tool with emphasis on, not just monitoring what applications are running, but on finding out what applications are doing. The UI focuses on expedience and getting real time data of what the processes are doing at any given moment. Relevant data are provided in easy to access (as less clicks as possible) panels, with no need to open windows or windows of sub windows, instead additional information’s for selected entries are shown in the lower half of the panel. Allowing to browse the detailed information’s using arrow keys. And most data are refreshed continuously, as seeing the dynamic of values often grants additional insight.
   - [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the Windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing. Sandboxie allows you to create virtually unlimited sandboxes and run them alone or simultaneously to isolate programs from the host and each other, while also allowing you to run as many programs simultaneously in a single box as you wish.
+
+- [Capstone](https://github.com/capstone-engine/capstone) disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
 
 ### C sharp
 <a id="markdown-c-sharp" name="c-sharp"></a>
@@ -449,6 +453,16 @@ definitions, executable algorithms and theorems together with an environment for
   - [官网](https://matplotlib.org/)
   - [源代码](https://github.com/matplotlib/matplotlib)
   - [教程](https://www.runoob.com/matplotlib/matplotlib-tutorial.html)
+- pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.
+  - [官网](https://pandas.pydata.org/)
+  - [源代码](https://github.com/pandas-dev/pandas)
+  - [教程](https://www.runoob.com/pandas/pandas-tutorial.html)
+- [spyder](https://www.spyder-ide.org/)is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It features a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.[github](https://github.com/spyder-ide/spyder)
+
+### [Taichi](https://www.taichi-lang.org/)
+<a id="markdown-taichi" name="taichi"></a>
+[Taichi](https://github.com/taichi-dev/taichi) Lang is an open-source, imperative, parallel programming language for high-performance numerical computation. It is embedded in Python and uses just-in-time (JIT) compiler frameworks, for example LLVM, to offload the compute-intensive Python code to the native GPU or CPU instructions.Productive, portable, and performant GPU programming in Python.
 
 ## OpenCv
 <a id="markdown-opencv" name="opencv"></a>
@@ -516,6 +530,7 @@ definitions, executable algorithms and theorems together with an environment for
 - [REDALERT 红警](https://github.com/electronicarts/CnC_Remastered_Collection)
 - [warriorjs](https://github.com/olistic/warriorjs) 🏰 An exciting game of programming and Artificial Intelligence
 - [The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat. [website](http://powdertoy.co.uk/)
+- [VCMI](https://github.com/vcmi/vcmi) is an open-source recreation of Heroes of Might & Magic III engine, giving it new and extended possibilities. Homepage: https://vcmi.eu/
 
 ## 其他
 <a id="markdown-%E5%85%B6%E4%BB%96" name="%E5%85%B6%E4%BB%96"></a>
